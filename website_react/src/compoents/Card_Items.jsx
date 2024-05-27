@@ -4,7 +4,6 @@ function Card_Items() {
   return (
      
 <div className='row' >
-  
 <Card sx={{ maxWidth: 145, backgroundColor : "#F2FCE4" , margin : "30px" ,  }}>
       <CardActionArea>
         <CardMedia component="img" height="80"
@@ -142,8 +141,6 @@ function Card_Items() {
         </CardContent>
       </CardActionArea>
     </Card>
-    
-    
 </div>
   );
 }

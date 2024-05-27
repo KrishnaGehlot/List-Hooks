@@ -39,7 +39,7 @@ function Second_Template() {
           <Col style={{marginRight : "10px"}}>
           <img src="https://nest-frontend-v6.netlify.app/assets/imgs/theme/icons/icon-headphone.svg
 " alt="" />
-         <span style={{color : "#3BB77E" , fontSize : "19px" , }}> 1900-888</span>  </Col>
+         <span style={{color : "#3BB77E" , fontSize : "17px" , marginLeft:"-10px" }}> 1900-888</span>  </Col>
         </Row>
       </Container>
     <hr />
